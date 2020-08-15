@@ -1,1 +1,1 @@
-# XYZ
+# CS50 solutions
